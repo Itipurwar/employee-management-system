@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # React + Vite
-# React + Vite
 
 This project uses React.js with Vite for a fast and modern development experience.
 
